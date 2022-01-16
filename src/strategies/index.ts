@@ -416,7 +416,7 @@ const strategies = {
   'holds-tokens': holdsTokens,
   'loot-character-guilds': lootCharacterGuilds,
   cyberkongz: cyberkongz,
-  'cyberkongz-v2': cyberkongzV2, 
+  'cyberkongz-v2': cyberkongzV2,
   'comp-like-votes-inclusive': compLikeVotesInclusive,
   mstable,
   'hashes-voting': hashesVoting,
@@ -470,9 +470,9 @@ const strategies = {
   'path-balance-staked-and-locked': pathBalanceStakedAndLocked,
   'sumami-holders': sUmamiHolders,
   zorro,
-  'volt-voting-power': voltVotingPower, 
+  'volt-voting-power': voltVotingPower,
   'balancer-poolid': balancerPoolid,
-  'staked-balancer': stakedBalancer,
+  'staked-balancer': stakedBalancer
 };
 
 Object.keys(strategies).forEach(function (strategyName) {
